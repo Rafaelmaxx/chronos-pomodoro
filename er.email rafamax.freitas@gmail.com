@@ -1,0 +1,10 @@
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+core.eol=lf
+core.autocrlf=input
+user.name=Rafael Max
+user.email=rafamax.freitas@gmail.com
